@@ -1,0 +1,7 @@
+mongodb+srv://ghifathoriq:<password>@cluster0.iav91kl.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://ghifathoriq:ghifathoriq@cluster0.iav91kl.mongodb.net/blog?retryWrites=true&w=majority
+
+pw ghifathoriq
+
+
+pw Oe0w19F2TsRJpj07
